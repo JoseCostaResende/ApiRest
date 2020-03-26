@@ -8,4 +8,4 @@ Usage
 Here is how you use it:
 
  * http://localhost:7001/API/api/givehello/
- * Do something else
+ * Usa EJB
